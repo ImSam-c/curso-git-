@@ -1,0 +1,68 @@
+* commit 2f3fe010d0a9a8d701a0d75e5bda0e0c3cc7c25a
+| Author: Sam <samuelcorreos123@gmail.com>
+| Date:   Sat Oct 8 19:43:45 2022 -0500
+| 
+|     Agregando estaciones y h1 editado
+|   
+*   commit 15a29469e2cd1d4acaac0fcec8a8a1a91297f22b
+|\  Merge: 6a2d029 ebd3ef7
+| | Author: Sam <samuelcorreos123@gmail.com>
+| | Date:   Sat Oct 8 15:48:19 2022 -0500
+| | 
+| |     Resolviendo conflictos
+| | 
+| * commit ebd3ef7076d95b4784f10edb2e6d61cae6d3cc81
+| | Author: Sam <samuelcorreos123@gmail.com>
+| | Date:   Sat Oct 8 15:02:58 2022 -0500
+| | 
+| |     Editando index.html desde la rama html
+| | 
+| * commit e8c1048c35b3bb7e101e58d41160cdcd114b8aba
+| | Author: Sam <samuelcorreos123@gmail.com>
+| | Date:   Fri Oct 7 18:58:04 2022 -0500
+| | 
+| |     Agregando index.html
+| | 
+* | commit 6a2d0292af8c4dc5b3797b7ddbf8fdecba494715
+|/  Author: Sam <samuelcorreos123@gmail.com>
+|   Date:   Sat Oct 8 15:02:30 2022 -0500
+|   
+|       Editando index.html desde rama main
+|   
+*   commit 0c3cf1d26c6a37a615ca1f1dfa504e0a1d6c4dfa
+|\  Merge: 92bb4b3 3cf7e88
+| | Author: Sam <samuelcorreos123@gmail.com>
+| | Date:   Fri Oct 7 18:39:23 2022 -0500
+| | 
+| |     Merge branch 'html'
+| |     Cause I need to merge
+| | 
+| * commit 3cf7e887f0890e486dd0e8ff610dee0758a547eb
+| | Author: Sam <samuelcorreos123@gmail.com>
+| | Date:   Fri Oct 7 17:33:48 2022 -0500
+| | 
+| |     Agregando index.html
+| | 
+* | commit 92bb4b3360bdfe5ded4e53b6bce4eba361ff445d
+|/  Author: Sam <samuelcorreos123@gmail.com>
+|   Date:   Fri Oct 7 17:43:50 2022 -0500
+|   
+|       Agregando style.css
+| 
+* commit e58b3ce2536a3a52ffcc7ab3dd571d7dff8dd539
+| Author: Zennn0 <107570199+Zennn0@users.noreply.github.com>
+| Date:   Thu Oct 6 14:53:45 2022 -0500
+| 
+|     Agregando licencia
+| 
+* commit 9554f0ee52797f731e8eec9621db9a5592bed55e
+| Author: Sam <samuelcorreos123@gmail.com>
+| Date:   Thu Oct 6 14:44:09 2022 -0500
+| 
+|     Agregando información al README.md
+| 
+* commit f3e017238c9d6770e0db3f67b6bdb3ef4c3f634e
+  Author: Sam <samuelcorreos123@gmail.com>
+  Date:   Thu Oct 6 14:03:57 2022 -0500
+  
+      Primer commit
